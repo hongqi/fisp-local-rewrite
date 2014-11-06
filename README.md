@@ -7,3 +7,5 @@ config your rewrite rule in server.conf like template ^\/picturefav\/submit\/url
 then use the date you want.
 
 fis: http://fis.baidu.com
+
+ok
